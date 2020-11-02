@@ -1,7 +1,7 @@
 # Example cargo-embed project using Workspaces
 
 [cargo-embed](https://github.com/probe-rs/cargo-embed) doesn't seem to support workspaces.  This simple
-workspace project is to help debug issue (##)[].
+workspace project is to help debug issue [#119](https://github.com/probe-rs/cargo-embed/issues/119).
 
 This project can be built using `cargo build` from the root directory.  However, attempting to use
 `cargo embed` fails with:
